@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/81d54102e0a1444a99d0fda990e293d2/artifacts
+end_time: 1717595936929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81d54102e0a1444a99d0fda990e293d2
+run_name: aged-penguin-974
+run_uuid: 81d54102e0a1444a99d0fda990e293d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717595933387
+status: 4
+tags: []
+user_id: kaleymayer

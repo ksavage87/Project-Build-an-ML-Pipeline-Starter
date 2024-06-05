@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c3065232fbea49a6b2b2abdf174fa4d9/artifacts
+end_time: 1717595818007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3065232fbea49a6b2b2abdf174fa4d9
+run_name: abundant-cub-932
+run_uuid: c3065232fbea49a6b2b2abdf174fa4d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717595813983
+status: 4
+tags: []
+user_id: kaleymayer

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8087ba2e2cae4336a632ba92e6f83158/artifacts
+end_time: 1717599295029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8087ba2e2cae4336a632ba92e6f83158
+run_name: popular-goose-853
+run_uuid: 8087ba2e2cae4336a632ba92e6f83158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717599293923
+status: 4
+tags: []
+user_id: kaleymayer

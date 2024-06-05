@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9799b469493b42c1a0ac28d31119fd80/artifacts
+end_time: 1717597899961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9799b469493b42c1a0ac28d31119fd80
+run_name: wistful-hawk-338
+run_uuid: 9799b469493b42c1a0ac28d31119fd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717597862398
+status: 4
+tags: []
+user_id: kaleymayer

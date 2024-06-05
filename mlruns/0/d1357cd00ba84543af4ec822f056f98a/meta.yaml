@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d1357cd00ba84543af4ec822f056f98a/artifacts
+end_time: 1717592171086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1357cd00ba84543af4ec822f056f98a
+run_name: learned-trout-940
+run_uuid: d1357cd00ba84543af4ec822f056f98a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717592166974
+status: 4
+tags: []
+user_id: kaleymayer

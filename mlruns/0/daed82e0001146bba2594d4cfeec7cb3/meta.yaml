@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/daed82e0001146bba2594d4cfeec7cb3/artifacts
+end_time: 1717595336958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daed82e0001146bba2594d4cfeec7cb3
+run_name: skittish-auk-79
+run_uuid: daed82e0001146bba2594d4cfeec7cb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717595299597
+status: 4
+tags: []
+user_id: kaleymayer

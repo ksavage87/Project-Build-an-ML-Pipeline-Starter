@@ -1,0 +1,13 @@
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_setup.py:_flush():68] Configure stats pid to 76959
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_setup.py:_flush():68] Loading settings from /Users/kaleymayer/.config/wandb/settings
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_setup.py:_flush():68] Loading settings from /Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'project': 'nyc_airbnb', '_require_service': 'True', 'run_group': 'development'}
+2024-06-05 07:59:42,338 WARNING MainThread:76959 [wandb_setup.py:_flush():68] Could not save program above cwd: /Users/kaleymayer/anaconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/Users/kaleymayer/anaconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest'}
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_init.py:_log_setup():478] Logging user logs to /Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240605_075942-h95n4bpi/logs/debug.log
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_init.py:_log_setup():479] Logging internal logs to /Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240605_075942-h95n4bpi/logs/debug-internal.log
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_init.py:init():518] calling init triggers
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-06-05 07:59:42,338 INFO    MainThread:76959 [wandb_init.py:init():566] wandb.init() called when a run is still active
+2024-06-05 07:59:46,301 WARNING MsgRouterThr:76959 [router.py:message_loop():77] message_loop has been closed

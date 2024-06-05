@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a5f1dfa840ba4a7a89d8532091689a65/artifacts
+end_time: 1717596006270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5f1dfa840ba4a7a89d8532091689a65
+run_name: useful-croc-955
+run_uuid: a5f1dfa840ba4a7a89d8532091689a65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717596004165
+status: 4
+tags: []
+user_id: kaleymayer

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a27cab8a77634d8680d687196ca289be/artifacts
+end_time: 1717594417189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a27cab8a77634d8680d687196ca289be
+run_name: defiant-frog-744
+run_uuid: a27cab8a77634d8680d687196ca289be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717594404975
+status: 4
+tags: []
+user_id: kaleymayer

@@ -1,0 +1,41 @@
+2024-06-05 08:41:24,536 Minimum price: 10, Maximum price: 350
+2024-06-05 08:41:24,541 Preparing sklearn pipeline
+2024-06-05 08:41:24,542 Fitting
+2024-06-05 08:41:43,793 Scoring
+2024-06-05 08:41:43,849 Score: 0.5731867563876871
+2024-06-05 08:41:43,850 MAE: 30.39109926168991
+2024-06-05 08:41:43,850 Exporting model
+/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/mlflow/models/signature.py:130: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  inputs = _infer_schema(model_input)
+[34m[1mwandb[39m[22m: Adding directory to artifact (./random_forest_dir)... Done. 0.0s
+Traceback (most recent call last):
+  File "/Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 314, in <module>
+    go(args)
+  File "/Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 124, in go
+    fig_feat_imp = plot_feature_importance(sk_pipe, processed_features)
+  File "/Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 147, in plot_feature_importance
+    fig_feat_imp, sub_feat_imp = plt.subplots(figsize=(10, 10))
+  File "/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/matplotlib/pyplot.py", line 1442, in subplots
+    fig = figure(**fig_kw)
+  File "/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/matplotlib/_api/deprecation.py", line 454, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/matplotlib/pyplot.py", line 783, in figure
+    manager = new_figure_manager(
+  File "/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/matplotlib/pyplot.py", line 358, in new_figure_manager
+    _warn_if_gui_out_of_main_thread()
+  File "/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/matplotlib/pyplot.py", line 336, in _warn_if_gui_out_of_main_thread
+    if _get_required_interactive_framework(_get_backend_mod()):
+  File "/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/matplotlib/pyplot.py", line 207, in _get_backend_mod
+    switch_backend(dict.__getitem__(rcParams, "backend"))
+  File "/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/matplotlib/pyplot.py", line 265, in switch_backend
+    backend_mod = importlib.import_module(
+  File "/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 984, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'matplotlib_inline'

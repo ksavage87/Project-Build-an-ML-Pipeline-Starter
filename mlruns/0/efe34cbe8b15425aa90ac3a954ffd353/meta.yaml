@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/efe34cbe8b15425aa90ac3a954ffd353/artifacts
+end_time: 1717592170838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efe34cbe8b15425aa90ac3a954ffd353
+run_name: lyrical-snake-60
+run_uuid: efe34cbe8b15425aa90ac3a954ffd353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717592169844
+status: 4
+tags: []
+user_id: kaleymayer

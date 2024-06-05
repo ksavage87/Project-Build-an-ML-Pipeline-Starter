@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1b22d85fe43d4aee90f86c90024a6f89/artifacts
+end_time: 1717595729199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b22d85fe43d4aee90f86c90024a6f89
+run_name: melodic-goat-662
+run_uuid: 1b22d85fe43d4aee90f86c90024a6f89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717595688850
+status: 4
+tags: []
+user_id: kaleymayer

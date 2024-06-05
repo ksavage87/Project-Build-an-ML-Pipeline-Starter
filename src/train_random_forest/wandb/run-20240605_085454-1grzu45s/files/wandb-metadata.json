@@ -1,0 +1,61 @@
+{
+    "os": "macOS-13.0-arm64-arm-64bit",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-06-05T13:54:54.813010",
+    "startedAt": "2024-06-05T13:54:54.293107",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "none",
+        "--rf_config",
+        "/Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/multirun/2024-06-05/08-54-51/0/rf_config.json",
+        "--max_tfidf_features",
+        "10",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/ksavage87/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": "kmaye26@wgu.edu",
+    "root": "/Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter",
+    "host": "Kaleys-MacBook-Air.local",
+    "username": "kaleymayer",
+    "executable": "/Users/kaleymayer/anaconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 12.264923095703125
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

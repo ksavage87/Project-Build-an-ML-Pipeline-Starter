@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cdef66e08b144245a3d8605ce1003e8e/artifacts
+end_time: 1717594822403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdef66e08b144245a3d8605ce1003e8e
+run_name: bemused-moose-60
+run_uuid: cdef66e08b144245a3d8605ce1003e8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717594783870
+status: 4
+tags: []
+user_id: kaleymayer

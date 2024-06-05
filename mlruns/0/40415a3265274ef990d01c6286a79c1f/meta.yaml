@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/40415a3265274ef990d01c6286a79c1f/artifacts
+end_time: 1717595548228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40415a3265274ef990d01c6286a79c1f
+run_name: industrious-crab-327
+run_uuid: 40415a3265274ef990d01c6286a79c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717595512994
+status: 4
+tags: []
+user_id: kaleymayer

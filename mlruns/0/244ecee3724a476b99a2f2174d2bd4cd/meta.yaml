@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/244ecee3724a476b99a2f2174d2bd4cd/artifacts
+end_time: 1717586021621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 244ecee3724a476b99a2f2174d2bd4cd
+run_name: bedecked-pig-748
+run_uuid: 244ecee3724a476b99a2f2174d2bd4cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717586004700
+status: 3
+tags: []
+user_id: kaleymayer

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6cb13fe82dcf4cc8b861538fce7c4be7/artifacts
+end_time: 1717597553014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cb13fe82dcf4cc8b861538fce7c4be7
+run_name: adaptable-shrew-938
+run_uuid: 6cb13fe82dcf4cc8b861538fce7c4be7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717597551135
+status: 4
+tags: []
+user_id: kaleymayer

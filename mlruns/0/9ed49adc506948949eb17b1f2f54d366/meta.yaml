@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9ed49adc506948949eb17b1f2f54d366/artifacts
+end_time: 1717599742029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ed49adc506948949eb17b1f2f54d366
+run_name: persistent-sheep-466
+run_uuid: 9ed49adc506948949eb17b1f2f54d366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717599689151
+status: 3
+tags: []
+user_id: kaleymayer

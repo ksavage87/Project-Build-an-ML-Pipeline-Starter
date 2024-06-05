@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/23cca15c52cc424f813a0368a7023b40/artifacts
+end_time: 1717592800869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23cca15c52cc424f813a0368a7023b40
+run_name: indecisive-pig-669
+run_uuid: 23cca15c52cc424f813a0368a7023b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717592783786
+status: 3
+tags: []
+user_id: kaleymayer

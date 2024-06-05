@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e5106b35d71142e48bf8928fa510186d/artifacts
+end_time: 1717596578989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5106b35d71142e48bf8928fa510186d
+run_name: industrious-ape-388
+run_uuid: e5106b35d71142e48bf8928fa510186d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717596576877
+status: 4
+tags: []
+user_id: kaleymayer

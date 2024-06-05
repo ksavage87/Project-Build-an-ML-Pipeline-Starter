@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/090a6144cee94793ad016afebf4a6e1f/artifacts
+end_time: 1717586021516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 090a6144cee94793ad016afebf4a6e1f
+run_name: valuable-trout-680
+run_uuid: 090a6144cee94793ad016afebf4a6e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717586008983
+status: 3
+tags: []
+user_id: kaleymayer

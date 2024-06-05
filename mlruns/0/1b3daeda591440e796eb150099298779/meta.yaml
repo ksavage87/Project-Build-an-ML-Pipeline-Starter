@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1b3daeda591440e796eb150099298779/artifacts
+end_time: 1717597307001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b3daeda591440e796eb150099298779
+run_name: upbeat-flea-996
+run_uuid: 1b3daeda591440e796eb150099298779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717597304535
+status: 4
+tags: []
+user_id: kaleymayer

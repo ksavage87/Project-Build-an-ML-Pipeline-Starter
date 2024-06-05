@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/99fc0dd13ff74d2c9e800dd1f03d5886/artifacts
+end_time: 1717597534182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99fc0dd13ff74d2c9e800dd1f03d5886
+run_name: capable-cow-628
+run_uuid: 99fc0dd13ff74d2c9e800dd1f03d5886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717597532101
+status: 4
+tags: []
+user_id: kaleymayer

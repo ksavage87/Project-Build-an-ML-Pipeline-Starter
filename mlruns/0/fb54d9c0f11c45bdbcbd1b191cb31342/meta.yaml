@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fb54d9c0f11c45bdbcbd1b191cb31342/artifacts
+end_time: 1717594417411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb54d9c0f11c45bdbcbd1b191cb31342
+run_name: adorable-stag-147
+run_uuid: fb54d9c0f11c45bdbcbd1b191cb31342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717594402494
+status: 4
+tags: []
+user_id: kaleymayer

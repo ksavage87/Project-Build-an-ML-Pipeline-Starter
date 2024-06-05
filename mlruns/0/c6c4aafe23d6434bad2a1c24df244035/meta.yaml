@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c6c4aafe23d6434bad2a1c24df244035/artifacts
+end_time: 1717599508572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6c4aafe23d6434bad2a1c24df244035
+run_name: rare-mule-524
+run_uuid: c6c4aafe23d6434bad2a1c24df244035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717599506129
+status: 4
+tags: []
+user_id: kaleymayer

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ac79462650864076a4c8d37dadf8ccdd/artifacts
+end_time: 1717599615712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac79462650864076a4c8d37dadf8ccdd
+run_name: resilient-cod-147
+run_uuid: ac79462650864076a4c8d37dadf8ccdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717599614754
+status: 4
+tags: []
+user_id: kaleymayer

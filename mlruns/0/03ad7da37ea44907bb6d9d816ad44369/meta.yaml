@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/03ad7da37ea44907bb6d9d816ad44369/artifacts
+end_time: 1717592800968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03ad7da37ea44907bb6d9d816ad44369
+run_name: vaunted-colt-69
+run_uuid: 03ad7da37ea44907bb6d9d816ad44369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717592780003
+status: 3
+tags: []
+user_id: kaleymayer
