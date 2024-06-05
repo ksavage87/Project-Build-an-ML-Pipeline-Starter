@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kaleymayer/Project-Build-an-ML-Pipeline-Starter/mlruns/0/da85c5bbf5da42f7b00a11067fc4a843/artifacts
+end_time: 1717623642522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da85c5bbf5da42f7b00a11067fc4a843
+run_name: magnificent-tern-631
+run_uuid: da85c5bbf5da42f7b00a11067fc4a843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717623625410
+status: 3
+tags: []
+user_id: kaleymayer
